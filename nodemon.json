@@ -1,0 +1,8 @@
+{
+  "env": {
+    "DB_NAME": "place_db",
+    "DB_USER": "rizqi",
+    "DB_PWD": "Cr6ftyFsQJaKfbWg",
+    "JWT_SECRET": "supersecret_dont_share"
+  }
+}
